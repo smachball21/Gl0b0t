@@ -11,6 +11,14 @@ Install Packages
 npm install
 ```
 
+Configure config.json
+```
+token = Your bot token
+adminID = Identifiant of your discord user
+clientID = Your bot client ID
+giphyAPIkey = Your API key of giphy (for the *randomgif)
+```
+
 Run the bot
 ```
 node index.js
@@ -18,7 +26,7 @@ node index.js
 
 Bug Fixes:
 
-If u are this error when u run - *help :
+If u are this error when u type - *help :
 ```
 TypeError: fields.flat is not a function
 ```
