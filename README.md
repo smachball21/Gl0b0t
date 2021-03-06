@@ -18,7 +18,7 @@ node index.js
 
 Bug Fixes:
 
-If u are this error:
+If u are this error when u run - *help :
 ```
 TypeError: fields.flat is not a function
 ```
