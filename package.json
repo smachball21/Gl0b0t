@@ -15,6 +15,7 @@
     "ffmpeg-static": "^4.2.7",
     "fluent-ffmpeg": "^2.1.2",
     "giphy-random": "^2.0.8",
+    "popyt": "^5.0.0",
     "ytdl-core": "^4.5.0"
   }
 }
